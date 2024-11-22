@@ -1,0 +1,3 @@
+- MySQL hỗ trợ việc tạo các ràng buộc khóa ngoại để duy trì tính toàn vẹn dữ liệu
+-MySQL cung cấp các công cụ sao lưu dữ liệu, giúp sao lưu và phục hồi dữ liệu dễ dàng.
+-MySQL đi kèm với các công cụ quản lý như phpMyAdmin, MySQL Workbench, giúp người dùng dễ dàng quản lý cơ sở dữ liệu, tạo và sửa đổi bảng, thực hiện truy vấn và quản lý người dùng.
